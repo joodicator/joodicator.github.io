@@ -1,0 +1,3 @@
+[submodule "mc-dev-data"]
+	path = mc-dev-data
+	url = https://github.com/joodicator/mc-dev-data.git
